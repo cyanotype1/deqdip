@@ -1,3 +1,23 @@
+
+This package provides essential additional tooling for anyone producing comparative multicore performance 
+metrics on modern Intel processors running Linux either from 
+
+- the Linux command line,
+- integrating with any C/C++ program
+- integrating with Elixir/Erlang VM (the package is also on hex.pm)
+
+
+If you have produced metrics that are inconsistent or difficult to rationalise its because you
+haven't used deqdip.
+
+deqdip took quite a few hours of considered (and unpaid) work to put together. If when using deqdip your 
+performance characterisaton project suddenly has a lightbulb moment which helps derive key design parameters 
+or enhances optimisation work then please show some appreciation by clicking on donate.
+
+
+
+[![paypal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RW436H3SN8RFY)
+
 ```
 
 deqdip
